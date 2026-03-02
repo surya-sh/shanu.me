@@ -140,7 +140,7 @@
 
     AOS.init({
       duration: 1200,
-      offset: -500,
+      offset: -1000,
       once: true
     })
 
